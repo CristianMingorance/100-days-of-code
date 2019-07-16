@@ -1,29 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Julio 08, 2019 
+##### Descubriendo Git y GitHub
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Hoy hemos empezado a practicar con Git y GitHub voy a explicar lo que a mi parecer e entendido.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** Git es una herramienta para programadores que se utiliza, para manejar los archivos locales existentes en mi ordenador, se puede utilizar para navegar,crear archivos, crear carpetas, guardas copias de ciertos archivos, subirlas a GitHub.
+GitHub vendria a ser un espacio creado por los propios programadores para compartir y organizar sus proyectos, asi como los propios archivos de los proyectos, esta herramienta es muy util ya que no solo sirve para organizar al propio programador si no que, podemos utilizarla para exponer nuestros proyectos a los demas programadores y asi mejorar y compartir nuestros trabajos. 
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
